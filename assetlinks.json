@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "org.infai.optimise.optimise_pwa.twa",
+                     "sha256_cert_fingerprints": ["98:D7:92:6E:CF:A5:AE:92:BD:55:08:6F:1C:10:30:A5:29:A7:30:6D:27:61:D2:26:33:84:94:65:E8:F9:B8:A4"] }
+      }
+]

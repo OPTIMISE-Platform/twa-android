@@ -1,0 +1,6 @@
+app/build
+.idea
+sepl.keystore
+app-release-*
+twa-manifest.json
+.gradle
